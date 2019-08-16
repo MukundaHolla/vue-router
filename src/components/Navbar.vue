@@ -26,4 +26,7 @@ export default {
     a{
         color: #42b983;
     }
+    li {
+        display: inline-block;
+    }
 </style>
